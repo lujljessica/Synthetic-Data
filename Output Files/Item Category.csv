@@ -1,0 +1,252 @@
+Category,Subcategory,Item Name,Brand,Price,Category_ID,Subcategory_ID,Item_ID
+Bakery & Desserts,Breads,White Bread,Albany,16.99,794,1263,52597
+Bakery & Desserts,Breads,Wholewheat Bread,Sasko,18.99,794,1263,56457
+Bakery & Desserts,Breads,Hamburger Buns 6pk,House Brand,14.99,794,1263,81010
+Bakery & Desserts,Breads,Hotdog Buns 6pck,House Brand,14.99,794,1263,91247
+Bakery & Desserts,Breads,Baguette,House Brand,17.99,794,1263,20052
+Bakery & Desserts,Cakes,Chocolate Cake,Pick n Pay,59.99,794,2487,53818
+Bakery & Desserts,Cakes,Vanilla Sponge Cake,House Brand,49.99,794,2487,94269
+Bakery & Desserts,Pastries,Croissants,House Brand,34.99,794,2636,42404
+Bakery & Desserts,Pastries,Danish Pastry,House Brand,29.99,794,2636,69874
+Bakery & Desserts,Muffins,Chocolate Chip Muffins 4pck,Pick n Pay,39.99,794,7208,18382
+Bakery & Desserts,Muffins,Blueberry Muffins 4pck,House Brand,34.99,794,7208,59644
+Bakery & Desserts,Muffins,Bran Muffins 4pck,House Brand,32.99,794,7208,71336
+Bakery & Desserts,Pies and Tarts,Apple Pie,Krispy Kreme,64.99,794,4931,76570
+Bakery & Desserts,Pies and Tarts,Milk Tart,House Brand,54.99,794,4931,20106
+Bakery & Desserts,Pies and Tarts,Lemon Meringue Tart,House Brand,59.99,794,4931,63988
+Bakery & Desserts,Pies and Tarts,Caramel Tart,House Brand,57.99,794,4931,57950
+Bakery & Desserts,Doughnuts,Glazed Doughnuts,House Brand,29.99,794,6911,30855
+Bakery & Desserts,Doughnuts,Assorted Doughnuts,House Brand,34.99,794,6911,31251
+Bakery & Desserts,Frozen Desserts,Vanilla Ice Cream,Ola Magnum,89.99,794,8220,55533
+Bakery & Desserts,Frozen Desserts,Chocolate Ice Cream,Gatti,79.99,794,8220,20280
+Bakery & Desserts,Puddings,Malva Pudding,House Brand,39.99,794,6253,91681
+Bakery & Desserts,Puddings,Sticky Toffee Pudding,House Brand,42.99,794,6253,23884
+Snacks,Biscuits,Chocolate Chip Cookies,Bakers,34.99,576,2295,13355
+Snacks,Biscuits,Shortbread,House Brand,24.99,576,2295,85362
+Snacks,Biscuits,Buttermilk Rusks,Ouma Rusks,54.99,576,2295,34829
+Snacks,Biscuits,Muesli Rusks,House Brand,49.99,576,2295,63059
+Snacks,Chips & Crisps,Salted Potato Chips,Simba,19.99,576,4656,67675
+Snacks,Chips & Crisps,Spicy Tomato Chips,Lay's,22.99,576,4656,23981
+Snacks,Chips & Crisps,Cheese Curls,NikNaks,17.99,576,4656,90963
+Snacks,Popcorn,Butter Popcorn,Simba,18.99,576,7948,54378
+Snacks,Popcorn,Salted Microwave Popcorn,Act II,19.99,576,7948,76314
+Snacks,Nuts,Salted Peanuts,Bokomo,29.99,576,1824,53758
+Snacks,Nuts,Mixed Nuts,Montagu,59.99,576,1824,49904
+Snacks,Dried Fruits,Dried Mango,Montagu,49.99,576,4635,54908
+Snacks,Dried Fruits,Dried Apricots,Safari,39.99,576,4635,84706
+Snacks,Biltong & Dried Meat,Beef Biltong,Strips & Sticks,89.99,576,6829,17524
+Snacks,Biltong & Dried Meat,Droëwors,Chappy's,84.99,576,6829,66183
+Snacks,Crackers,Cream Crackers,Bakers,29.99,576,6300,26736
+Snacks,Crackers,Multigrain Rice Crackers,House Brand,24.99,576,6300,80979
+Snacks,Pretzels,Salted Pretzels,Simba,22.99,576,3330,94592
+Snacks,Chocolate Bars,Milk Chocolate,Cadbury Dairy Milk,19.99,576,6260,64571
+Snacks,Chocolate Bars,Bar One,Nestlé,18.99,576,6260,80907
+Snacks,Candy,Jelly Tots,Beacon,16.99,576,4365,38518
+Snacks,Candy,Mint Imperials,Woolworths,24.99,576,4365,93843
+Snacks,Gum,Chewing Gum (Spearmint),Stimorol,12.99,576,2225,63328
+Snacks,Gum,Bubble Gum,Chappies,9.99,576,2225,70477
+Snacks,Energy Bars,Peanut Butter Energy Bar,Jungle Energy,14.99,576,1535,16177
+Snacks,Energy Bars,Chocolate Protein Bar,USN,24.99,576,1535,10858
+Pantry & Dry Goods,Rice & Grains,White Rice,Tastic,39.99,560,9600,92170
+Pantry & Dry Goods,Rice & Grains,Brown Rice,SunRice,44.99,560,9600,47276
+Pantry & Dry Goods,Pasta,Spaghetti,Barilla,34.99,560,7749,93919
+Pantry & Dry Goods,Pasta,Macaroni,Sasko,29.99,560,7749,63438
+Pantry & Dry Goods,Lentils & Beans,Red Lentils,Ideal,39.99,560,7945,74423
+Pantry & Dry Goods,Lentils & Beans,Mixed Beans,KOO,24.99,560,7945,57329
+Pantry & Dry Goods,Flour,Cake Flour,Sasko,34.99,560,1205,37446
+Pantry & Dry Goods,Flour,All-Purpose Flour,White Star,32.99,560,1205,20903
+Pantry & Dry Goods,Baking Ingredients,Baking Powder,Royal,19.99,560,9719,59747
+Pantry & Dry Goods,Baking Ingredients,Cocoa Powder,Nestlé,39.99,560,9719,73898
+Pantry & Dry Goods,Sugar & Sweeteners,White Sugar,Sasko,34.99,560,9986,47521
+Pantry & Dry Goods,Sugar & Sweeteners,Brown Sugar,GoldnWhite,36.99,560,9986,25227
+Pantry & Dry Goods,Salt & Spices,Table Salt,Cerebos,14.99,560,3337,31149
+Pantry & Dry Goods,Salt & Spices,Himalayan Pink Salt,Cape Herb & Spice,49.99,560,3337,11921
+Pantry & Dry Goods,Sauces & Condiments,Tomato Sauce,All Gold,29.99,560,6313,46022
+Pantry & Dry Goods,Sauces & Condiments,Mustard,French's,34.99,560,6313,40566
+Pantry & Dry Goods,Sauces & Condiments,Mayonnaise,Hellmann's,54.99,560,6313,93434
+Pantry & Dry Goods,Oils & Vinegar,Olive Oil,Lourensford,99.99,560,2379,78145
+Pantry & Dry Goods,Oils & Vinegar,Canola Oil,Canola,69.99,560,2379,64860
+Pantry & Dry Goods,Honey & Syrups,Pure Honey,Honeydale,74.99,560,6402,95935
+Pantry & Dry Goods,Honey & Syrups,Maple Syrup,Canada Grade A,99.99,560,6402,77366
+Pantry & Dry Goods,Cereals & Muesli,Cornflakes,Kellogg's,49.99,560,3588,18832
+Pantry & Dry Goods,Cereals & Muesli,Muesli,Jungle Oats,59.99,560,3588,13220
+Pantry & Dry Goods,Baking Mixes,Pancake Mix,Pargo,34.99,560,6196,33237
+Pantry & Dry Goods,Baking Mixes,Brownie Mix,Sasko,39.99,560,6196,55740
+Pantry & Dry Goods,Instant Foods,Instant Oats,Jungle Oats,44.99,560,6805,87794
+Pantry & Dry Goods,Instant Foods,Instant Soup,Knorr,24.99,560,6805,83849
+Pantry & Dry Goods,Dried Fruits,Dried Apricots,Safari,39.99,560,4635,84706
+Pantry & Dry Goods,Dried Fruits,Dried Prunes,Sun-Maid,54.99,560,4635,96625
+Pantry & Dry Goods,Canned Goods,Baked Beans,KOO,19.99,560,2921,56844
+Pantry & Dry Goods,Canned Goods,Chick Peas in Brine,KOO,21.99,560,2921,87922
+Pantry & Dry Goods,Canned Goods,Creamstyle Sweetcorn,KOO,17.99,560,2921,13043
+Pantry & Dry Goods,Canned Goods,Garden Peas In Sweetened Brine,KOO,18.99,560,2921,20157
+Pantry & Dry Goods,Canned Goods,Guava Halves In Syrup,KOO,24.99,560,2921,18323
+Pantry & Dry Goods,Canned Goods,Baked Beans,House Brand,14.99,560,2921,56844
+Pantry & Dry Goods,Canned Goods,Baked Beans,Pot 'O Gold,16.99,560,2921,56844
+Pantry & Dry Goods,Canned Goods,Pilchards in Tomato Sauce,Lucky Star,39.99,560,2921,73424
+Pantry & Dry Goods,Canned Goods,Lightly Shredded Tuna in Oil,Lucky Star,27.99,560,2921,21130
+Pantry & Dry Goods,Canned Goods,Smoked Sardines,Lucky Star,34.99,560,2921,49908
+Pantry & Dry Goods,Canned Goods,Lightly Shredded Tuna in Oil,House Brand,22.99,560,2921,21130
+Pantry & Dry Goods,Canned Goods,Sweet Corn,Pot 'O Gold,16.99,560,2921,36243
+Pantry & Dry Goods,Canned Goods,Baked Beans,Lucky Star,21.99,560,2921,56844
+Pantry & Dry Goods,Canned Goods,Pineapple in Syrup,House Brand,19.99,560,2921,57102
+Pantry & Dry Goods,Canned Goods,Peach Halves in Syrup,House Brand,18.99,560,2921,88563
+Beverages & Water,Water,Still Water,Aquelle,9.99,102,8829,67763
+Beverages & Water,Water,Sparkling Water,Perrier,24.99,102,8829,49329
+Beverages & Water,Soft Drinks,Cola,Coca-Cola,14.99,102,3201,62462
+Beverages & Water,Soft Drinks,Lemonade,Fanta,13.99,102,3201,56474
+Beverages & Water,Soft Drinks,Cream Soda,Sprite,13.99,102,3201,66151
+Beverages & Water,Fruit Juices,Orange Juice,Ceres,29.99,102,1382,36079
+Beverages & Water,Fruit Juices,Apple Juice,LiquiFruit,27.99,102,1382,92536
+Beverages & Water,Fruit Juices,Mango Juice,Tropika,24.99,102,1382,28913
+Beverages & Water,Fruit Juices,Mixed Fruit Juice,Woolworths,34.99,102,1382,56558
+Pantry & Dry Goods,Tea,Black Tea,Five Roses,29.99,560,8627,56750
+Pantry & Dry Goods,Tea,Green Tea,Lipton,34.99,560,8627,51158
+Pantry & Dry Goods,Tea,Rooibos Tea,Rooibos Limited,39.99,560,8627,30358
+Pantry & Dry Goods,Coffee,Instant Coffee,Ricoffy,49.99,560,5132,68416
+Pantry & Dry Goods,Coffee,Ground Coffee,Nescafé,64.99,560,5132,91988
+Pantry & Dry Goods,Coffee,Espresso,Lavazza,79.99,560,5132,51808
+Beverages & Water,Energy Drinks,Energy Drink,Red Bull,25.0,102,8559,99028
+Beverages & Water,Energy Drinks,Energy Drink,Monster,30.0,102,8559,99028
+Beverages & Water,Sports Drinks,Electrolyte Drink,Powerade,18.0,102,1531,65605
+Beverages & Water,Sports Drinks,Isotonic Drink,Gatorade,22.0,102,1531,61637
+Beverages & Water,Flavoured Water,Lemon-Flavoured Water,Aquelle,15.0,102,9014,10849
+Beverages & Water,Flavoured Water,Berry-Flavoured Water,Valpre,18.0,102,9014,30294
+Beverages & Water,Bottled Water,Mineral Water,Nestlé Pure Life,10.0,102,2226,38130
+Beverages & Water,Bottled Water,Purified Water,AquaVita,12.0,102,2226,82968
+Beverages & Water,Bottled Water,Spring Water,Mount Franklin,14.0,102,2226,76348
+Alcoholic Beverages,Beers and Ciders,Beer,Castle Lager 6pck,100.0,966,2511,22163
+Alcoholic Beverages,Beers and Ciders,Beer,Corona 6pck,150.0,966,2511,22163
+Alcoholic Beverages,Beers and Ciders,Beer,Black Label 6pck,95.0,966,2511,22163
+Alcoholic Beverages,Beers and Ciders,Beer,Castle Light 6pck,110.0,966,2511,22163
+Alcoholic Beverages,Beers and Ciders,Cider,Hunters Gold,110.0,966,2511,52971
+Alcoholic Beverages,Beers and Ciders,Cider,Savannah,115.0,966,2511,52971
+Alcoholic Beverages,Wines,Cabernet,Nederburg,85.0,966,4931,24306
+Alcoholic Beverages,Wines,Sauvignon,Nederburg,80.0,966,4931,80503
+Alcoholic Beverages,Wines,Merlot,Nederburg,90.0,966,4931,13776
+Alcoholic Beverages,Wines,Pinot,Nederburg,95.0,966,4931,85089
+Alcoholic Beverages,Wines,Syrah,Nederburg,100.0,966,4931,29900
+Alcoholic Beverages,Wines,Shiraz,Nederburg,100.0,966,4931,61508
+Alcoholic Beverages,Wines,Rose,Nederburg,75.0,966,4931,76434
+Alcoholic Beverages,Wines,Sauvignon Blanc,Nederburg,85.0,966,4931,36821
+Alcoholic Beverages,Wines,Chardonnay,Nederburg,90.0,966,4931,43390
+Alcoholic Beverages,Wines,Cabernet,Stellenbosch Vineyards,95.0,966,4931,24306
+Alcoholic Beverages,Wines,Sauvignon,Stellenbosch Vineyards,90.0,966,4931,80503
+Alcoholic Beverages,Wines,Merlot,Stellenbosch Vineyards,100.0,966,4931,13776
+Alcoholic Beverages,Wines,Pinot,Stellenbosch Vineyards,105.0,966,4931,85089
+Alcoholic Beverages,Wines,Syrah,Stellenbosch Vineyards,110.0,966,4931,29900
+Alcoholic Beverages,Wines,Shiraz,Stellenbosch Vineyards,110.0,966,4931,61508
+Alcoholic Beverages,Wines,Rose,Stellenbosch Vineyards,80.0,966,4931,76434
+Alcoholic Beverages,Wines,Sauvignon Blanc,Stellenbosch Vineyards,90.0,966,4931,36821
+Alcoholic Beverages,Wines,Chardonnay,Stellenbosch Vineyards,100.0,966,4931,43390
+Alcoholic Beverages,Wines,Cabernet,Durbanville,90.0,966,4931,24306
+Alcoholic Beverages,Wines,Sauvignon,Durbanville,85.0,966,4931,80503
+Alcoholic Beverages,Wines,Merlot,Durbanville,95.0,966,4931,13776
+Alcoholic Beverages,Wines,Pinot,Durbanville,100.0,966,4931,85089
+Alcoholic Beverages,Wines,Syrah,Durbanville,105.0,966,4931,29900
+Alcoholic Beverages,Wines,Shiraz,Durbanville,105.0,966,4931,61508
+Alcoholic Beverages,Wines,Rose,Durbanville,75.0,966,4931,76434
+Alcoholic Beverages,Wines,Sauvignon Blanc,Durbanville,80.0,966,4931,36821
+Alcoholic Beverages,Wines,Chardonnay,Durbanville,85.0,966,4931,43390
+Alcoholic Beverages,Whiskey,Whiskey,Jameson,300.0,966,3240,47816
+Alcoholic Beverages,Whiskey,Whiskey,Johnny Walker,400.0,966,3240,47816
+Alcoholic Beverages,Whiskey,Whiskey,Jack Daniels,350.0,966,3240,47816
+Alcoholic Beverages,Whiskey,Whiskey,Three Ships,250.0,966,3240,47816
+Alcoholic Beverages,Liqueur,Liqueur,Amarula,180.0,966,7855,11482
+Deli,Hams,Polony,House Brand,40.0,868,5693,72273
+Deli,Hams,Sandwich Ham,House Brand,50.0,868,5693,80868
+Deli,Hams,Salami,House Brand,60.0,868,5693,56143
+Deli,Hams,Cooked Ham,House Brand,55.0,868,5693,79934
+Deli,Pies,Pepper Steak,House Brand,35.0,868,9002,49530
+Deli,Pies,Chicken Mushroom,House Brand,38.0,868,9002,87681
+Deli,Pies,Steak Curry,House Brand,37.0,868,9002,35939
+Deli,Pies,Steak Kidney,House Brand,34.0,868,9002,79330
+Deli,Pies,Sausage Roll,House Brand,30.0,868,9002,23641
+Deli,Pies,Cheese Spinach,House Brand,32.0,868,9002,53808
+Deli,Salads,Pasta Salad,House Brand,25.0,868,5828,97306
+Deli,Cooked Foods,Roast Chicken,House Brand,100.0,868,3296,75648
+Deli,Cooked Foods,Baked Potato,House Brand,20.0,868,3296,41221
+Deli,Cooked Foods,Sausages,House Brand,45.0,868,3296,66149
+Meat & Seafood,Fresh Meat,Chicken Breast,Rainbow Chicken,80.0,851,8875,13174
+Meat & Seafood,Fresh Meat,Chicken Thighs,House Brand,65.0,851,8875,25100
+Meat & Seafood,Fresh Meat,Pork Belly,Lynca Meats,110.0,851,8875,79916
+Meat & Seafood,Fresh Meat,Pork Sausages,Enterprise,70.0,851,8875,31193
+Meat & Seafood,Fresh Meat,Beef Steak,Quality Butchery,150.0,851,8875,75146
+Meat & Seafood,Fresh Meat,Ground Beef,Aadvark Beef,90.0,851,8875,20787
+Meat & Seafood,Fresh Meat,Lamb Chops,Karoo Lamb,140.0,851,8875,56609
+Meat & Seafood,Fresh Meat,Beef Roast,Frigga,130.0,851,8875,26083
+Meat & Seafood,Processed Meat,Ham,Willowton,90.0,851,4374,16100
+Meat & Seafood,Processed Meat,Bacon,Eskort,110.0,851,4374,20263
+Meat & Seafood,Processed Meat,Salami,Franco’s,85.0,851,4374,56143
+Meat & Seafood,Processed Meat,Polony,Eskort,40.0,851,4374,72273
+Meat & Seafood,Sausages & Frankfurters,Boerewors,Enterprise,50.0,851,3950,55141
+Meat & Seafood,Sausages & Frankfurters,Frankfurters,Eskort,55.0,851,3950,50119
+Meat & Seafood,Sausages & Frankfurters,Russian Sausages,Willowton,60.0,851,3950,68736
+Meat & Seafood,Sausages & Frankfurters,Chorizo,Woodlands,70.0,851,3950,69128
+Meat & Seafood,Seafood,Fresh Salmon,Sea Pride,180.0,851,8849,27055
+Meat & Seafood,Seafood,Fresh Hake,Sea Pride,100.0,851,8849,25796
+Meat & Seafood,Seafood,Shrimp (Prawns),Sea Pride,150.0,851,8849,74081
+Meat & Seafood,Seafood,Mussels,Sea Pride,120.0,851,8849,85936
+Meat & Seafood,Frozen Seafood,Frozen Fish Fillets,Cape Town Fish,130.0,851,8609,47124
+Meat & Seafood,Frozen Seafood,Frozen Prawns,Pamona,140.0,851,8609,24616
+Meat & Seafood,Canned Seafood,Tuna (Canned),John West,35.0,851,5499,10634
+Meat & Seafood,Seafood Snacks,Fish Cakes,House Brand,45.0,851,8561,74285
+Meat & Seafood,Seafood Snacks,Smoked Salmon,House Brand,100.0,851,8561,83618
+Meat & Seafood,Game Meat,Venison,Game Meat SA,200.0,851,8639,79427
+Meat & Seafood,Game Meat,Kudu Steaks,Game Meat SA,220.0,851,8639,39975
+Fresh Produce,Fresh Fruits,Pink Lady,House Brand,25.0,996,5221,99319
+Fresh Produce,Fresh Fruits,Bananas,House Brand,15.0,996,5221,68659
+Fresh Produce,Fresh Fruits,Oranges,House Brand,20.0,996,5221,47417
+Fresh Produce,Fresh Fruits,Mangoes,House Brand,30.0,996,5221,51154
+Fresh Produce,Fresh Fruits,Grapes,House Brand,40.0,996,5221,17440
+Fresh Produce,Fresh Fruits,Pears,House Brand,22.0,996,5221,85522
+Fresh Produce,Fresh Vegetables,Potatoes,House Brand,12.0,996,4709,33327
+Fresh Produce,Fresh Vegetables,Tomatoes,House Brand,18.0,996,4709,92004
+Fresh Produce,Fresh Vegetables,Carrots,House Brand,15.0,996,4709,40911
+Fresh Produce,Fresh Vegetables,Lettuce,House Brand,14.0,996,4709,13332
+Fresh Produce,Fresh Vegetables,Spinach,House Brand,20.0,996,4709,38146
+Fresh Produce,Fresh Vegetables,Broccoli,House Brand,25.0,996,4709,11307
+Fresh Produce,Fresh Vegetables,Cucumbers,Pick n Pay,12.0,996,4709,54015
+Fresh Produce,Fresh Vegetables,Avocados,House Brand,35.0,996,4709,80427
+Fresh Produce,Fresh Herbs,Parsley,House Brand,10.0,996,6003,12036
+Fresh Produce,Fresh Herbs,Basil,House Brand,15.0,996,6003,74918
+Fresh Produce,Fresh Herbs,Mint,House Brand,12.0,996,6003,28107
+Fresh Produce,Fresh Herbs,Coriander,House Brand,14.0,996,6003,76892
+Fresh Produce,Fresh Mushrooms,White Mushrooms,House Brand,30.0,996,7080,65974
+Fresh Produce,Fresh Mushrooms,Brown Mushrooms,House Brand,32.0,996,7080,73788
+Fresh Produce,Fresh Mushrooms,Exotic Mushrooms,House Brand,40.0,996,7080,77791
+Fresh Produce,Fresh Berries,Strawberries,House Brand,45.0,996,2134,65397
+Fresh Produce,Fresh Berries,Blueberries,House Brand,50.0,996,2134,68899
+Fresh Produce,Fresh Berries,Raspberries,House Brand,55.0,996,2134,71584
+Fresh Produce,Fresh Citrus,Lemons,House Brand,8.0,996,8137,27662
+Fresh Produce,Fresh Citrus,Limes,House Brand,9.0,996,8137,92548
+Fresh Produce,Fresh Root Vegetables,Sweet Potatoes,House Brand,18.0,996,8358,21616
+Fresh Produce,Fresh Root Vegetables,Onions,House Brand,10.0,996,8358,67061
+Household and Outdoors,Cleaning Products,All-Purpose Cleaner,Dettol,45.0,654,5206,63157
+Household and Outdoors,Cleaning Products,Toilet Cleaner,Domestos,35.0,654,5206,97322
+Household and Outdoors,Cleaning Products,Dishwashing Liquid,Sunlight,30.0,654,5206,56134
+Household and Outdoors,Cleaning Products,Glass Cleaner,Easy-Off,40.0,654,5206,94661
+Household and Outdoors,Laundry Products,Laundry Detergent,Omo,70.0,654,1341,40346
+Household and Outdoors,Laundry Products,Fabric Softener,Comfort,45.0,654,1341,75771
+Household and Outdoors,Laundry Products,Stain Remover,Vanish,50.0,654,1341,77389
+Household and Outdoors,Laundry Products,Washing Powder,Surf,60.0,654,1341,41184
+Household and Outdoors,Air Fresheners,Air Freshener Spray,Glade,25.0,654,5510,53229
+Household and Outdoors,Air Fresheners,Plug-in Air Freshener,Air Wick,30.0,654,5510,79086
+Household and Outdoors,Waste Management,Garbage Bags,Binsmart,40.0,654,7321,94199
+Household and Outdoors,Waste Management,Compostable Bags,BioBag,50.0,654,7321,33095
+Household and Outdoors,Pest Control,Insect Repellent,Baygon,35.0,654,4990,88244
+Household and Outdoors,Pest Control,Rat Poison,Zynod,70.0,654,4990,40394
+Household and Outdoors,Pest Control,Mosquito Spray,Doom,25.0,654,4990,11502
+Household and Outdoors,Home Care,Furniture Polish,Pledge,45.0,654,8359,45649
+Household and Outdoors,Home Care,Stainless Steel Cleaner,Jif,40.0,654,8359,46507
+Household and Outdoors,Home Care,Leather Cleaner,Furniture Clinic,55.0,654,8359,35571
+Household and Outdoors,Lighting,Light Bulbs,Osram,20.0,654,7589,25451
+Household and Outdoors,Lighting,LED Lights,Phillips,50.0,654,7589,97240
+Electronics,Kitchen,Air Fryer 6L,Phillips,1200.0,292,7010,47272
+Electronics,Kitchen,Air Fryer XL,Phillips,1500.0,292,7010,11992
+Electronics,Kitchen,Stand Mixer,Phillips,2000.0,292,7010,65577
+Electronics,Kitchen,Blender,Russel & Hobbs,800.0,292,7010,40915
+Electronics,Kitchen,Blender,Midea,700.0,292,7010,40915
+Electronics,Kitchen,Microwave 6L,Phillips,1500.0,292,7010,83270
+Electronics,Kitchen,Microwave 6L,Phillips,2000.0,292,7010,83270
+Electronics,Kitchen,Microwave 200W 6L,Russel & Hobbs,800.0,292,7010,42984
